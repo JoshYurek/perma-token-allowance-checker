@@ -1,5 +1,5 @@
-# perma-token-allowance-checker
-Perma Token Allowance Checker
+
+# Perma Token Allowance Checker
 
 Many DApps have the habit of requiring you to approve effectively unlimited amount of tokens. This helps improving the user experience, as you only have to sign off an approval once and it will be enough for all future transactions.
 
